@@ -1,0 +1,10 @@
+hello
+world
+rust
+hello rust
+hello akshat
+
+struct Config()
+struct User()
+struct Authentication()
+struct Database()
