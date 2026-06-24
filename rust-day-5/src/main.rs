@@ -10,10 +10,3 @@ fn main() {
     }
 
 }
-
-
-// Write tests for:
-// Valid config ✅
-// Unknown key ✅
-// Missing field ✅
-// Invalid format ✅
