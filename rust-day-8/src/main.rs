@@ -1,1 +1,3 @@
-// The Code is available in `examples/` Folder in this Root of this Dir.
+fn main() {
+    println!("The Code is available in `examples/` Folder in this Root of this Dir.");
+}
